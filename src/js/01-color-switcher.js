@@ -28,3 +28,5 @@ function getRandomHexColor() {
     timerID = null;
     startBtn.disabled = false;
   }
+
+
